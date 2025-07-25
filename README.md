@@ -126,6 +126,7 @@ The GUI window will open for password generation.
 
 ## Demo Video
 
+https://www.linkedin.com/posts/sakshii125_python-internship-oasisinfobyte-activity-7354381739332444161-7KZw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlzQCEBcgHpQxLz_XBWlVGbkhDirbT-r5Y
 
 
 ## GUI Preview
